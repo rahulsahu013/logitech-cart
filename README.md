@@ -3,10 +3,12 @@ A simple shopping cart application built using React and Vite. It allows users t
 
 # Project Setup
 git clone <https://github.com/rahulsahu013/logitech-cart.git>
+
 cd shopping-cart
 
 # Install dependencies
 Make sure you have Node.js installed (recommended Node 16+).
+
 npm install
 
 # Start development server
@@ -17,9 +19,9 @@ After running the app, you will see:
 
 VITE v8.0.13  ready in 90 ms
 
-➜  Local:   http://localhost:5174/
+➜  Local:   http://localhost:8080/
 ➜  Network: use --host to expose
 ➜  press h + enter to show help
 
 Open your browser and visit:
-http://localhost:5174/
+http://localhost:8080/
